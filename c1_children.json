@@ -1,0 +1,17 @@
+{
+	"entities": [{
+		"updated_at": "2016-10-31T17:04:25.5230648",
+		"code": "S1",
+		"type": "Site",
+		"name": "Northcheam",
+		"service_parent": null,
+		"asset_parent": "C1"
+	}, {
+		"updated_at": "2016-10-31T17:04:25.9918222",
+		"code": "S2",
+		"type": "Site",
+		"name": "Stratford",
+		"service_parent": null,
+		"asset_parent": "C1"
+	}]
+}
