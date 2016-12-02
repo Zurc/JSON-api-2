@@ -6,9 +6,9 @@
 		"name": "J Sainsbury",
 		"service_parent": null,
 		"asset_parent": "OE1",
-		"tags": "c1_tags.json",
-		"asset_children": "c1_children.json",
-		"service_children": "c1_children.json"
+		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_tags.json",
+		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_children.json",
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_children.json"
 	}, {
 		"updated_at": "2016-10-31T17:04:25.4136898",
 		"code": "C2",
@@ -16,8 +16,8 @@
 		"name": "Tesco",
 		"service_parent": null,
 		"asset_parent": "OE1",
-		"service_children": "c2_children.json",
-		"asset_children": "c2_children.json",
-		"tags": "c2_tags.json"
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
+		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
+		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_tags.json"
 	}]
 }
