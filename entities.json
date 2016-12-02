@@ -1,0 +1,23 @@
+{
+	"entities": [{
+		"updated_at": "2016-10-31T17:04:24.523045",
+		"code": "C1",
+		"type": "Client",
+		"name": "J Sainsbury",
+		"service_parent": null,
+		"asset_parent": "OE1",
+		"tags": "c1_tags.json",
+		"asset_children": "c1_children.json",
+		"service_children": "c1_children.json"
+	}, {
+		"updated_at": "2016-10-31T17:04:25.4136898",
+		"code": "C2",
+		"type": "Client",
+		"name": "Tesco",
+		"service_parent": null,
+		"asset_parent": "OE1",
+		"service_children": "c2_children.json",
+		"asset_children": "c2_children.json",
+		"tags": "c2_tags.json"
+	}]
+}
