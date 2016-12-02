@@ -1,0 +1,11 @@
+{
+      "asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/entities.json",
+      "service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/entities.json",
+      "tags": "/entities/OE1/tags",
+      "updated_at": "2016-10-31T17:04:24.3511654",
+      "code": "OE1",
+      "type": "Root",
+      "name": "OE",
+      "service_parent": null,
+      "asset_parent": null
+}
