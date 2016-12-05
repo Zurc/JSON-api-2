@@ -1,0 +1,24 @@
+{
+	"entities": [{
+		"updated_at": "2016-10-31T17:04:27.523102",
+		"code": "L1",
+		"type": "Load",
+		"name": "TANK 1",
+		"service_parent": "B1",
+		"asset_parent": "D1"
+	}, {
+		"updated_at": "2016-10-31T17:04:27.7574819",
+		"code": "L2",
+		"type": "Load",
+		"name": "TANK 2",
+		"service_parent": "B2",
+		"asset_parent": "D1"
+	}, {
+		"updated_at": "2016-10-31T17:04:27.9918632",
+		"code": "L3",
+		"type": "Load",
+		"name": "TANK 3",
+		"service_parent": "B3",
+		"asset_parent": "D1"
+	}]
+}
