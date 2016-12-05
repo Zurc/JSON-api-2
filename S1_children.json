@@ -1,0 +1,24 @@
+{
+	"entities": [{
+		"updated_at": "2016-10-31T17:04:25.6324421",
+		"code": "D1",
+		"type": "Device",
+		"name": "JACE",
+		"service_parent": null,
+		"asset_parent": "S1"
+	}, {
+		"updated_at": "2016-10-31T17:04:25.7574434",
+		"code": "D2",
+		"type": "Device",
+		"name": "JACE2",
+		"service_parent": null,
+		"asset_parent": "S1"
+	}, {
+		"updated_at": "2016-10-31T17:04:25.8668206",
+		"code": "D3",
+		"type": "Device",
+		"name": "JACE3",
+		"service_parent": null,
+		"asset_parent": "S1"
+	}]
+}
