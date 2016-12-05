@@ -5,7 +5,9 @@
 		"type": "Site",
 		"name": "Northcheam",
 		"service_parent": null,
-		"asset_parent": "C1"
+		"asset_parent": "C1",
+		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/S1_children.json",
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/S1_children.json"
 	}, {
 		"updated_at": "2016-10-31T17:04:25.9918222",
 		"code": "S2",
