@@ -5,7 +5,9 @@
 		"type": "Device",
 		"name": "JACE",
 		"service_parent": null,
-		"asset_parent": "S1"
+		"asset_parent": "S1",
+		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/D1_children.json",
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/D1_children.json"
 	}, {
 		"updated_at": "2016-10-31T17:04:25.7574434",
 		"code": "D2",
