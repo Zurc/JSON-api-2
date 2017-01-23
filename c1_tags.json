@@ -2,8 +2,18 @@
   "tags": [
     {
       "updated_at": "2016-10-31T17:04:31.0544192",
-      "key": "Dummy",
+      "key": "Dummy Tag 1",
       "value": "32"
+    },
+    {
+      "updated_at": "2016-11-11T11:02:31.0544192",
+      "key": "Dummy Tag 2",
+      "value": "48"
+    },
+    {
+      "updated_at": "2017-01-23T14:10:01.0544192",
+      "key": "Dummy Tag 3",
+      "value": "21"
     }
   ]
 }
