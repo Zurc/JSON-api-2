@@ -20,7 +20,7 @@
 		"asset_parent": "OE1",
 		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
 		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
-		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_tags.json"
+		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_tags.json",
 		"has_asset_children": true,
 		"has_service_children": true
 	}]
