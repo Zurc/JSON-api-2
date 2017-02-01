@@ -7,20 +7,26 @@
 		"service_parent": null,
 		"asset_parent": "S1",
 		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/D1_children.json",
-		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/D1_children.json"
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/D1_children.json",
+		"has_asset_children": true,
+		"has_service_children": true
 	}, {
 		"updated_at": "2016-10-31T17:04:25.7574434",
 		"code": "D2",
 		"type": "Device",
 		"name": "JACE2",
 		"service_parent": null,
-		"asset_parent": "S1"
+		"asset_parent": "S1",
+		"has_asset_children": false,
+		"has_service_children": false
 	}, {
 		"updated_at": "2016-10-31T17:04:25.8668206",
 		"code": "D3",
 		"type": "Device",
 		"name": "JACE3",
 		"service_parent": null,
-		"asset_parent": "S1"
+		"asset_parent": "S1",
+		"has_asset_children": false,
+		"has_service_children": false
 	}]
 }
