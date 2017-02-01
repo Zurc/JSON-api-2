@@ -7,13 +7,17 @@
 		"service_parent": null,
 		"asset_parent": "C1",
 		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/S1_children.json",
-		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/S1_children.json"
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/S1_children.json",
+		"has_asset_children": true,
+		"has_service_children": true
 	}, {
 		"updated_at": "2016-10-31T17:04:25.9918222",
 		"code": "S2",
 		"type": "Site",
 		"name": "Stratford",
 		"service_parent": null,
-		"asset_parent": "C1"
+		"asset_parent": "C1",
+		"has_asset_children": false,
+		"has_service_children": false
 	}]
 }
