@@ -7,5 +7,7 @@
       "type": "Root",
       "name": "OE",
       "service_parent": null,
-      "asset_parent": null
+      "asset_parent": null,
+      "has_asset_children": true,
+      "has_service_children": true
 }
