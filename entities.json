@@ -8,7 +8,9 @@
 		"asset_parent": "OE1",
 		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_tags.json",
 		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_children.json",
-		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_children.json"
+		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c1_children.json",
+		"has_asset_children": true,
+		"has_service_children": true
 	}, {
 		"updated_at": "2016-10-31T17:04:25.4136898",
 		"code": "C2",
@@ -19,5 +21,7 @@
 		"service_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
 		"asset_children": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_children.json",
 		"tags": "https://raw.githubusercontent.com/Zurc/JSON-api-2/master/c2_tags.json"
+		"has_asset_children": true,
+		"has_service_children": true
 	}]
 }
